@@ -41,8 +41,6 @@ This project allows users to create bank accounts, securely log in, deposit and 
 
 1. Clone the repository
 
-git clone https://github.com/YourUsername/python-bank-management-system.git
-
 2. Open the project folder.
 
 3. Run
